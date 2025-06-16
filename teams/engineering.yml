@@ -38,3 +38,5 @@ team_settings:
         - 2
         - 3
 software:
+  packages: 
+    - path: ../lib/cloudflare-warp.yml
